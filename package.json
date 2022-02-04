@@ -1,0 +1,25 @@
+{
+  "name": "ExpessSession-Flash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mo2024/ExpessSession-Flash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mo2024/ExpessSession-Flash/issues"
+  },
+  "homepage": "https://github.com/Mo2024/ExpessSession-Flash#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2"
+  }
+}
